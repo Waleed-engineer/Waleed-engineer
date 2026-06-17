@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Waleed 👋
 
-<!--
-**Waleed-engineer/Waleed-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student driven by a passion for **Embedded Systems and Robotics**. I believe that engineering is best learned by doing, so I document my progress and experiments through code.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** C++, Python, Scratch
+- **Tools:** Linux, Git, Bash, VS Code
+- **Interests:** Embedded Systems, Robotics, Linear Algebra, Physics, Mathematics
+- **Mechanical Modeling:** Skilled in basic 3D modeling (CAD basics for functional parts like organizers and components).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Current Projects
+#Not yet
+
+### 🚀 Long-term Goal: Building a Custom Drone
+My ultimate goal is to design and build a drone from scratch using C++ and Python. This project encompasses:
+- **Mechanical Design:** 3D modeling and printing.
+- **Electronics & Control:** Working with STM32 / Raspberry Pi.
+- **Embedded Software:** Firmware development, control loops, and sensor integration.
+
+### 📈 Learning Path (Sorted by current focus)
+Python ➡️ C++ ➡️ Math ➡️ English ➡️ Physics & IT ➡️ Linux(a bit)
+
+---
+*I am always open to learning and collaborating. Feel free to explore my repositories!*
