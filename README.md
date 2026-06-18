@@ -10,6 +10,7 @@ I am a student driven by a passion for **Embedded Systems and Robotics**. I beli
 
 ### 📂 Current Projects
 [Click 👆](https://github.com/Waleed-engineer/Cpp-Learning-path) C++ learning road
+
 [Click 👆](https://github.com/Waleed-engineer/Learning_Linear_Algebra) Linear Algebra scripts(in python) creating while learning
 
 ### 🚀 Long-term Goal: Building a Custom Drone
