@@ -9,7 +9,8 @@ I am a student driven by a passion for **Embedded Systems and Robotics**. I beli
 - **Mechanical Modeling:** Skilled in basic 3D modeling (CAD basics for functional parts like organizers and components).
 
 ### 📂 Current Projects
-[Click](https://github.com/Waleed-engineer/Cpp-Learning-path) C++ learning road
+[Click 👆](https://github.com/Waleed-engineer/Cpp-Learning-path) C++ learning road
+[Click 👆](https://github.com/Waleed-engineer/Learning_Linear_Algebra) Linear Algebra scripts(in python) creating while learning
 
 ### 🚀 Long-term Goal: Building a Custom Drone
 My ultimate goal is to design and build a drone from scratch using C++ and Python. This project encompasses:
